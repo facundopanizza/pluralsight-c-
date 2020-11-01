@@ -1,0 +1,11 @@
+/home/facundo/code/pluralsight/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook
+/home/facundo/code/pluralsight/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.deps.json
+/home/facundo/code/pluralsight/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.json
+/home/facundo/code/pluralsight/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.dev.json
+/home/facundo/code/pluralsight/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.dll
+/home/facundo/code/pluralsight/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.pdb
+/home/facundo/code/pluralsight/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csprojAssemblyReference.cache
+/home/facundo/code/pluralsight/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfoInputs.cache
+/home/facundo/code/pluralsight/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfo.cs
+/home/facundo/code/pluralsight/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.dll
+/home/facundo/code/pluralsight/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.pdb

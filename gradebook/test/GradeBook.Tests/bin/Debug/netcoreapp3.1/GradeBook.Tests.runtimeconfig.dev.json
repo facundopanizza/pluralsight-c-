@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/facundo/.dotnet/store/|arch|/|tfm|",
+      "/home/facundo/.nuget/packages"
+    ]
+  }
+}
